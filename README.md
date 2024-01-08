@@ -1,2 +1,2 @@
-# Power-Bi_Project
-Power BI project on Anox company data
+# Power BI project on Anox company data
+The successful implementation of the Axon project employed Microsoft Power BI for intuitive data visualization and analysis. Utilizing MySQL as the database backend, the solution extracted, cleaned, and transformed sales data to provide actionable insights. Interactive dashboards, crafted using Power BI's visualization tools and DAX functions, empowered the sales team and management with real-time, data-driven decision-making capabilities. Advanced analytics leveraging SQL enhanced the depth of insights, ensuring a user-friendly BI solution that optimized sales data management and substantially improved the decision-making process.
